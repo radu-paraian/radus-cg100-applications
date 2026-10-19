@@ -15,6 +15,19 @@ Classic Snake with a checkered green board, a blue snake with googly eyes, and a
 | OK | Start a game, or pause and resume |
 | AC | Quit |
 
+### 2048 (`g2048.py`)
+
+The classic sliding-tile puzzle: merge matching numbers to reach 2048. Tiles slide smoothly and new tiles pop in. It keeps your best score for as long as the script runs.
+
+| Key | Action |
+| --- | --- |
+| Arrows | Slide the tiles |
+| OK | New game (press OK again to confirm) |
+| Any other key | Turn the slide animation on or off |
+| AC | Quit |
+
+The file is called `g2048.py` because Python module names can't start with a digit, and the calculator imports a script when it runs it.
+
 ## Installing a game
 
 1. Plug the calculator into your computer with a USB data cable. Press **AC** first if a script is running, so the connection prompt appears.
