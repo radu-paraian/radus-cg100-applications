@@ -1,4 +1,4 @@
-# SNAKE for CASIO fx-CG100 (MicroPython 1.9.4 + casioplot), Google Snake style
+# SNAKE for CASIO fx-CG100 (MicroPython 1.9.4 + casioplot)
 # Arrows: steer   OK: pause   Left/Right on card: speed   AC: quit
 from casioplot import *
 from random import randint

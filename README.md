@@ -6,7 +6,7 @@ Simple games for the CASIO fx-CG100 graphing calculator, written in its Python a
 
 ### Snake (`snake.py`)
 
-Snake in the style of Google's: a checkered green board, a blue snake with googly eyes, and apples to eat. It keeps your best score for as long as the script runs.
+Classic Snake with a checkered green board, a blue snake with googly eyes, and apples to eat. It keeps your best score for as long as the script runs.
 
 | Key | Action |
 | --- | --- |
