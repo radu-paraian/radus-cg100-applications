@@ -1,4 +1,4 @@
-# radus-cg100-applications
+# Radu's CG100 Applications
 
 Simple games for the CASIO fx-CG100 graphing calculator, written in its Python app (MicroPython 1.9.4). Each game is a single `.py` file with no dependencies.
 
